@@ -58,6 +58,7 @@ cd wallet-public
 
 # Install
 make install
+sudo apt install make
 ```
 
 ### Generate a wallet
